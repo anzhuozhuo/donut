@@ -1,4 +1,4 @@
-![Title](imgs/donut.svg)
+![Title](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bb89fdeb-9697-4215-b19f-5522c3ce4d24/Bitrise_step__apk_info.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200427%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200427T140246Z&X-Amz-Expires=86400&X-Amz-Signature=fc25881367469d8992660653c565e5c363eb194ae0d28cdc2c28047b81a80e41&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Bitrise_step__apk_info.png%22)
 
 # Donut
 
